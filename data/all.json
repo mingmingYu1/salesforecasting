@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "data": {
+    "totalList": [
+      {"rowNum":1, "spId": "10011", "spFullName": "荷兰Nutrilon牛栏奶粉1段", "spShortName": "荷兰Nutrilon1段", "rlSaleNum": "587","rlSaleRate": "34.23"},
+      {"rowNum":2, "spId": "10012", "spFullName": "荷兰Nutrilon牛栏奶粉2段", "spShortName": "荷兰Nutrilon2段", "rlSaleNum": "537","rlSaleRate": "32.23"},
+      {"rowNum":3, "spId": "10013", "spFullName": "荷兰Nutrilon牛栏奶粉3段", "spShortName": "荷兰Nutrilon3段", "rlSaleNum": "527","rlSaleRate": "-3.23"},
+      {"rowNum":4, "spId": "10014", "spFullName": "荷兰Nutrilon牛栏奶粉4段", "spShortName": "荷兰Nutrilon4段", "rlSaleNum": "487","rlSaleRate": "4.23"},
+      {"rowNum":5, "spId": "10015", "spFullName": "荷兰Nutrilon牛栏奶粉5段", "spShortName": "荷兰Nutrilon5段", "rlSaleNum": "477","rlSaleRate": "23.23"},
+      {"rowNum":6, "spId": "10016", "spFullName": "荷兰Nutrilon牛栏奶粉6段", "spShortName": "荷兰Nutrilon6段", "rlSaleNum": "467","rlSaleRate": "39.23"},
+      {"rowNum":7, "spId": "10017", "spFullName": "荷兰Nutrilon牛栏奶粉7段", "spShortName": "荷兰Nutrilon7段", "rlSaleNum": "457","rlSaleRate": "30.23"},
+      {"rowNum":8, "spId": "10018", "spFullName": "荷兰Nutrilon牛栏奶粉8段", "spShortName": "荷兰Nutrilon8段", "rlSaleNum": "387","rlSaleRate": "28.23"},
+      {"rowNum":9, "spId": "10019", "spFullName": "荷兰Nutrilon牛栏奶粉9段", "spShortName": "荷兰Nutrilon9段", "rlSaleNum": "367","rlSaleRate": "44.23"},
+      {"rowNum":10, "spId": "100110", "spFullName": "荷兰Nutrilon牛栏奶粉10段", "spShortName": "荷兰Nutrilon10段", "rlSaleNum": "357","rlSaleRate": "88.23"},
+      {"rowNum":11, "spId": "100111", "spFullName": "荷兰Nutrilon牛栏奶粉11段", "spShortName": "荷兰Nutrilon11段", "rlSaleNum": "337","rlSaleRate": "66.23"},
+      {"rowNum":12, "spId": "100112", "spFullName": "荷兰Nutrilon牛栏奶粉12段", "spShortName": "荷兰Nutrilon12段", "rlSaleNum": "317","rlSaleRate": "27.23"},
+      {"rowNum":13, "spId": "100113", "spFullName": "荷兰Nutrilon牛栏奶粉13段", "spShortName": "荷兰Nutrilon13段", "rlSaleNum": "287","rlSaleRate": "34.23"},
+      {"rowNum":14, "spId": "100114", "spFullName": "荷兰Nutrilon牛栏奶粉14段", "spShortName": "荷兰Nutrilon14段", "rlSaleNum": "277","rlSaleRate": "11.23"},
+      {"rowNum":15, "spId": "100115", "spFullName": "荷兰Nutrilon牛栏奶粉15段", "spShortName": "荷兰Nutrilon15段", "rlSaleNum": "267","rlSaleRate": "34.12"},
+      {"rowNum":16, "spId": "100116", "spFullName": "荷兰Nutrilon牛栏奶粉16段", "spShortName": "荷兰Nutrilon16段", "rlSaleNum": "237","rlSaleRate": "34.23"},
+      {"rowNum":17, "spId": "100117", "spFullName": "荷兰Nutrilon牛栏奶粉17段", "spShortName": "荷兰Nutrilon17段", "rlSaleNum": "227","rlSaleRate": "35.23"},
+      {"rowNum":18, "spId": "100118", "spFullName": "荷兰Nutrilon牛栏奶粉18段", "spShortName": "荷兰Nutrilon18段", "rlSaleNum": "187","rlSaleRate": "-34.23"},
+      {"rowNum":19, "spId": "100119", "spFullName": "荷兰Nutrilon牛栏奶粉19段", "spShortName": "荷兰Nutrilon19段", "rlSaleNum": "177","rlSaleRate": "19.23"},
+      {"rowNum":20, "spId": "100120", "spFullName": "荷兰Nutrilon牛栏奶粉20段", "spShortName": "荷兰Nutrilon20段", "rlSaleNum": "157","rlSaleRate": "21.23"}
+    ],
+    "currentPage": 1,
+    "totalPageNum": 20
+  }
+}

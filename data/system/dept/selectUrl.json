@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "data": [{
+    "parentId": 1,
+    "parentName": "上级部门1"
+  },{
+    "parentId": 2,
+    "parentName": "上级部门2"
+  },{
+    "parentId": 3,
+    "parentName": "上级部门3"
+  },{
+    "parentId": 4,
+    "parentName": "上级部门4"
+  },{
+    "parentId": 5,
+    "parentName": "上级部门5"
+  },{
+    "parentId": 6,
+    "parentName": "上级部门6"
+  },{
+    "parentId": 7,
+    "parentName": "上级部门7"
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "data": {
+    "totalList":[
+      {"rowNum": "1", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 35, "rlSaleAmt": 5687.66},
+      {"rowNum": "2", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 36, "rlSaleAmt": 5687.66},
+      {"rowNum": "3", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 37, "rlSaleAmt": 5687.66},
+      {"rowNum": "4", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 38, "rlSaleAmt": 5687.66},
+      {"rowNum": "5", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 39, "rlSaleAmt": 5687.66},
+      {"rowNum": "6", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 40, "rlSaleAmt": 5687.66},
+      {"rowNum": "7", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 41, "rlSaleAmt": 5687.66},
+      {"rowNum": "8", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 42, "rlSaleAmt": 5687.66},
+      {"rowNum": "9", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 43, "rlSaleAmt": 5687.66},
+      {"rowNum": "10", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 44, "rlSaleAmt": 5687.66},
+      {"rowNum": "11", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 45, "rlSaleAmt": 5687.66},
+      {"rowNum": "12", "spId": "10055", "spShortName": "荷兰ndk奶粉1段", "rlSaleNum": 46, "rlSaleAmt": 5687.66}
+    ],
+    "currentPage": 1,
+    "totalPageNum": 12
+  }
+}

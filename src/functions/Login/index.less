@@ -1,0 +1,88 @@
+@color: #00bcd4;
+.login {
+  min-height: 100%;
+  background: #333 url(./logobg.png) no-repeat;
+  background-size: cover;
+  position: relative;
+  .header {
+    position: absolute;
+    top: 0;
+    height: 56px;
+    background-color: @color;
+    width: 100%;
+    padding: 0 20px;
+    > div {
+      margin-top: 3px;
+    }
+  }
+  .body {
+    position: relative;
+    padding-top: 56px;
+    padding-bottom: 30px;
+    min-height: 500px;
+    .imgContainer {
+      position: absolute;
+      left: 5%;
+      top: 0;
+      width: 90%;
+      margin-top: -180px;
+    }
+    .nameHeader {
+      text-align: center;
+      color: #7e8183;
+      font-weight: 700;
+      font-size: 16px;
+      margin-bottom: 15px;
+    }
+    .bfd-clearable-input .clear {
+      right: 40px;
+    }
+    .form-content {
+      position: relative;
+    }
+    .bfd-form2 {
+      position: absolute;
+      left: 7%;
+      top: 55%;
+      padding: 20px;
+      width: 360px;
+      border-radius: 2px;
+      box-shadow: 0 0 15px #666;
+      background-color: #fff;
+      .logo {
+        position: absolute;
+        left: 50%;
+        top: -120px;
+        transform: translate(-50%, 0);
+        text-align: center;
+        white-space: nowrap;
+        color: #fff;
+      }
+      .bfd-form-input {
+        display: block;
+        margin-right: 0;
+      }
+      button {
+        width: 100%;
+      }
+    }
+    .loginIcon {
+      position: absolute;
+      z-index: 2;
+      right: 15px;
+      line-height: 30px;
+      color: #7e8183;
+      font-size: 16px;
+    }
+  }
+  .footer {
+    height: 30px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background: @color;
+    text-align: center;
+    line-height: 30px;
+    color: #fff;
+  }
+}

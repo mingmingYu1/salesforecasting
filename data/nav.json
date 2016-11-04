@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "data": [
+    {"spcId": "10012", "spcName": "母婴用品"},
+    {"spcId": "10013", "spcName": "美妆洗护"},
+    {"spcId": "10014", "spcName": "食品保健"},
+    {"spcId": "10015", "spcName": "海外直邮"},
+    {"spcId": "10016", "spcName": "家居日用"},
+    {"spcId": "10017", "spcName": "时尚青奢"},
+    {"spcId": "10018", "spcName": "进口汽车"}
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "首页",
+      "menuId": 1,
+      "open": true,
+       "checked": true
+    },
+    {
+      "name": "企业管理",
+      "menuId": 2,
+      "checked": true,
+      "children": [
+        {
+          "name": "企业列表",
+          "menuId": 21,
+          "checked": true,
+          "children": [
+            {
+              "name": "基本信息",
+              "checked": true,
+              "menuId": 211
+            },
+            {
+              "name": "征信报告",
+              "menuId": 212,
+              "checked": true,
+              "children": [
+                {
+                  "name": "征信报告下载",
+                  "checked": true,
+                  "menuId": 2121
+                }
+              ]
+            },
+            {
+              "name": "评分报告",
+              "menuId": 213,
+              "checked": true,
+              "children": [
+                {
+                  "name": "企业画像",
+                  "checked": true,
+                  "menuId": 2131
+                },
+                {
+                  "name": "指标评分",
+                  "menuId": 2132,
+                  "checked": true,
+                  "children": [
+                    {
+                      "name": "注册资本详情",
+                      "checked": true,
+                      "menuId": 21321
+                    },
+                    {
+                      "name": "股权详情",
+                      "checked": true,
+                      "menuId": 21322
+                    },
+                    {
+                      "name": "近六个月出票增长率",
+                      "checked": true,
+                      "menuId": 21323
+                    },
+                    {
+                      "name": "近两年商旅毛利润",
+                      "checked": true,
+                      "menuId": 21324
+                    }
+                  ]
+                },
+                {
+                  "name": "近六个月平均退废票率",
+                  "checked": true,
+                  "menuId": 2133
+                }
+              ]
+            },
+            {
+              "name": "新增企业",
+              "checked": true,
+              "menuId": 214
+            },
+            {
+              "name": "修改企业",
+              "checked": true,
+              "menuId": 215
+            },
+            {
+              "name": "标签工厂",
+              "checked": true,
+              "menuId": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "评分模型",
+      "menuId": 3,
+      "children": [
+        {
+          "name": "指标体系管理",
+          "menuId": 31
+        },
+        {
+          "name": "评分版本管理",
+          "menuId": 32
+        },
+        {
+          "name": "评分模型管理",
+          "menuId": 33,
+          "children": [
+            {
+              "name": "查看权重",
+              "menuId": 331
+            }
+          ]
+        },
+        {
+          "name": "征信模板管理",
+          "menuId": 34
+        }
+      ]
+    },
+    {
+      "name": "系统管理",
+      "menuId": 4,
+      "children": [
+        {
+          "name": "用户管理",
+          "checked": true,
+          "menuId": 41
+        },
+        {
+          "name": "部门管理",
+          "checked": true,
+          "menuId": 42
+        },
+        {
+          "name": "角色管理",
+          "menuId": 43
+        }
+      ]
+    }
+  ]
+}

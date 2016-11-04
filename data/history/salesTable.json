@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "data": {
+    "totalList": [
+      {"rowNum": 1, "rlStatDate": "2016年5月31日", "rlSaleNumAccum": 532, "rlSaleNum": 35, "rlSaleAmtAccum": 5687.66, "rlSaleAmt": 2478.9},
+      {"rowNum": 2, "rlStatDate": "2016年6月1日", "rlSaleNumAccum": 532, "rlSaleNum": 35, "rlSaleAmtAccum": 5687.66, "rlSaleAmt": 2478.9},
+      {"rowNum": 3, "rlStatDate": "2016年6月2日", "rlSaleNumAccum": 532, "rlSaleNum": 35, "rlSaleAmtAccum": 5687.66, "rlSaleAmt": 2478.9},
+      {"rowNum": 4, "rlStatDate": "2016年6月3日", "rlSaleNumAccum": 532, "rlSaleNum": 35, "rlSaleAmtAccum": 5687.66, "rlSaleAmt": 2478.9},
+      {"rowNum": 5, "rlStatDate": "2016年6月4日", "rlSaleNumAccum": 532, "rlSaleNum": 35, "rlSaleAmtAccum": 5687.66, "rlSaleAmt": 2478.9},
+      {"rowNum": 6, "rlStatDate": "2016年6月5日", "rlSaleNumAccum": 532, "rlSaleNum": 35, "rlSaleAmtAccum": 5687.66, "rlSaleAmt": 2478.9},
+      {"rowNum": 7, "rlStatDate": "2016年6月6日", "rlSaleNumAccum": 532, "rlSaleNum": 35, "rlSaleAmtAccum": 5687.66, "rlSaleAmt": 2478.9},
+      {"rowNum": 8, "rlStatDate": "2016年6月7日", "rlSaleNumAccum": 532, "rlSaleNum": 35, "rlSaleAmtAccum": 5687.66, "rlSaleAmt": 2478.9}
+    ],
+    "currentPage": 1,
+    "totalPageNum": 8
+  }
+}

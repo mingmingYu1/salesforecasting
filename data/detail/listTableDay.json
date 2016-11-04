@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "totalList":
+    [
+      {"rowNum": 1, "spId": "10012", "statDate": "2016年5月31日","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 2, "spId": "10013", "statDate": "2016年6月1日","rlSaleNum": "", "spForecastSaleNum": 36, "spForecastSaleRange": "34~36"},
+      {"rowNum": 3, "spId": "10014", "statDate": "2016年6月2日","rlSaleNum": "", "spForecastSaleNum": 37, "spForecastSaleRange": "34~36"},
+      {"rowNum": 4, "spId": "10015", "statDate": "2016年6月3日","rlSaleNum": "", "spForecastSaleNum": 38, "spForecastSaleRange": "34~36"},
+      {"rowNum": 5, "spId": "10016", "statDate": "2016年6月4日","rlSaleNum": "", "spForecastSaleNum": 39, "spForecastSaleRange": "34~36"},
+      {"rowNum": 6, "spId": "10017", "statDate": "2016年6月5日","rlSaleNum": "", "spForecastSaleNum": 40, "spForecastSaleRange": "34~36"},
+      {"rowNum": 7, "spId": "10018", "statDate": "2016年6月6日","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 8, "spId": "10019", "statDate": "2016年6月7日","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 9, "spId": "100110", "statDate": "2016年6月8日","rlSaleNum": 40, "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 10, "spId": "100111", "statDate": "2016年6月9日","rlSaleNum": 41, "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 11, "spId": "100112", "statDate": "2016年6月10日","rlSaleNum": 42, "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 12, "spId": "100113", "statDate": "2016年6月11日","rlSaleNum": 43, "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"}
+    ],
+    "currentPage": 1,
+    "totalPageNum": 12
+  }
+}

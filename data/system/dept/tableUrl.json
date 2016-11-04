@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "data": {
+    "totalList": [
+      {"deptId": 1, "deptName": "前海云游", "parentId": null, "parentName": "", "createUser": "admin", "createTime": "2016-06-20"},
+      {"deptId": 2, "deptName": "腾邦国际", "parentId": null, "parentName": "", "createUser": "admin", "createTime": "2016-06-20"},
+      {"deptId": 3, "deptName": "应用研究部", "parentId": 1, "parentName": "前海云游", "createUser": "admin", "createTime": "2016-06-20"},
+      {"deptId": 4, "deptName": "算法开发部", "parentId": 1, "parentName": "前海云游", "createUser": "admin", "createTime": "2016-06-20"},
+      {"deptId": 5, "deptName": "运维部", "parentId": 1, "parentName": "前海云游", "createUser": "admin", "createTime": "2016-06-20"},
+      {"deptId": 6, "deptName": "金融事业群", "parentId": 2, "parentName": "腾邦国际", "createUser": "admin", "createTime": "2016-06-20"},
+      {"deptId": 7, "deptName": "融易行", "parentId": 3, "parentName": "金融事业群", "createUser": "admin", "createTime": "2016-06-20"}
+    ],
+    "currentPage": 1,
+    "totalPageNum": 7
+  }
+}

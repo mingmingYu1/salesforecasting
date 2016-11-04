@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "dictValue": "1",
+      "dictText": "日"
+    },{
+      "dictValue": "2",
+      "dictText": "周"
+    },{
+      "dictValue": "3",
+      "dictText": "月"
+    }
+  ]
+}

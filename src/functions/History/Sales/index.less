@@ -1,0 +1,41 @@
+.function-sales {
+  .firstSelect {
+    margin-top: 20px;
+    > div {
+      margin-top: 10px;
+      padding-right: 40px;
+      & + div {
+        .bfd-select2 {
+          width: 210px;
+        }
+      }
+      &:first-child {
+        .bfd-select2 {
+         width: 80px;
+          .dropdown-menu {
+            min-width: 80px;
+          }
+        }
+      }
+    }
+  }
+  .aBtn {
+    margin-top: 20px;
+    > a {
+      color: #999;
+      &.active {
+        color: #00bcd4;
+      }
+    }
+  }
+  .echartsIcon {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .bfd-paging.row {
+    overflow: auto;
+  }
+}

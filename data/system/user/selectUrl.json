@@ -1,0 +1,75 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "deptId": 1,
+      "deptName": "前海云游",
+      "createTime": 1461584512000,
+      "parentId": -1,
+      "enDeptName": null,
+      "sort": 1,
+      "status": "1",
+      "createUser": null
+    },
+    {
+      "deptId": 2,
+      "deptName": "腾邦国际",
+      "createTime": 1461549927000,
+      "parentId": -1,
+      "enDeptName": null,
+      "sort": 2,
+      "status": "1",
+      "createUser": null
+    },
+    {
+      "deptId": 3,
+      "deptName": "应用研究部",
+      "createTime": 1461584637000,
+      "parentId": 1,
+      "enDeptName": null,
+      "sort": 3,
+      "status": "1",
+      "createUser": "admin1"
+    },
+    {
+      "deptId": 4,
+      "deptName": "算法开发部",
+      "createTime": 1461584673000,
+      "parentId": 1,
+      "enDeptName": null,
+      "sort": 4,
+      "status": "1",
+      "createUser": "admin1"
+    },
+    {
+      "deptId": 5,
+      "deptName": "运维部",
+      "createTime": 1461584726000,
+      "parentId": 1,
+      "enDeptName": null,
+      "sort": 5,
+      "status": "1",
+      "createUser": "admin1"
+    },
+    {
+      "deptId": 6,
+      "deptName": "金融事业群",
+      "createTime": 1461584743000,
+      "parentId": 2,
+      "enDeptName": null,
+      "sort": 6,
+      "status": "1",
+      "createUser": "admin1"
+    },
+    {
+      "deptId": 7,
+      "deptName": "融易行",
+      "createTime": 1461584760000,
+      "parentId": 6,
+      "enDeptName": null,
+      "sort": 7,
+      "status": "1",
+      "createUser": "admin1"
+    }
+  ]
+}

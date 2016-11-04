@@ -1,0 +1,42 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "roleId": 1,
+      "roleName": "管理员",
+      "createTime": 1446542531000,
+      "createUser": null,
+      "enRoleName": null,
+      "sort": 0,
+      "status": "1"
+    },
+    {
+      "roleId": 7,
+      "roleName": "企业信用分析岗",
+      "createTime": 1465898551000,
+      "createUser": "超级管理员2",
+      "enRoleName": null,
+      "sort": 0,
+      "status": "1"
+    },
+    {
+      "roleId": 8,
+      "roleName": "模型管理岗",
+      "createTime": 1465898594000,
+      "createUser": "超级管理员2",
+      "enRoleName": null,
+      "sort": 0,
+      "status": "1"
+    },
+    {
+      "roleId": 9,
+      "roleName": "报告查看岗",
+      "createTime": 1461684565000,
+      "createUser": "超级管理员2",
+      "enRoleName": null,
+      "sort": 0,
+      "status": "1"
+    }
+  ],
+  "code": 200
+}

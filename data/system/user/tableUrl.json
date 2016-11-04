@@ -1,0 +1,75 @@
+{
+  "code": 200,
+  "data": {
+    "totalPageNum": 6,
+    "currentPage": 1,
+    "totalList": [
+      {
+        "deptId": 1,
+        "deptName": "前海云游",
+        "status": "1",
+        "userId": 9,
+        "roleIds": "7, 8",
+        "userName": "yexiang",
+        "roles": "企业信用分析岗 | 模型管理岗 | 报告查看岗",
+        "realName": "叶翔",
+        "password": "62c8ad0a15d9d"
+      },
+      {
+        "deptId": 1,
+        "deptName": "前海云游",
+        "status": "1",
+        "userId": 10,
+        "roleIds": "7, 8",
+        "userName": "chendongyu",
+        "roles": "企业信用分析岗 | 模型管理岗 | 报告查看岗",
+        "realName": "谌东宇",
+        "password": "62c8ad0a15d"
+      },
+      {
+        "deptId": 1,
+        "deptName": "前海云游",
+        "status": "1",
+        "userId": 8,
+        "roleIds": "7, 8",
+        "userName": "dujuan",
+        "roles": "企业信用分析岗",
+        "realName": "杜鹃",
+        "password": "62c8ad0a15"
+      },
+      {
+        "deptId": 1,
+        "deptName": "前海云游",
+        "status": "1",
+        "userId": 7,
+        "roleIds": "7, 8",
+        "userName": "nielei",
+        "roles": "报告查看岗",
+        "realName": "聂磊",
+        "password": "62c8ad0a15d9"
+      },
+      {
+        "deptId": 1,
+        "deptName": "前海云游",
+        "status": "1",
+        "userId": 6,
+        "roleIds": "7, 8",
+        "userName": "wangshengping",
+        "roles": "模型管理岗",
+        "realName": "王胜平",
+        "password": "62c8ad0a15d"
+      },
+      {
+        "deptId": 1,
+        "deptName": "前海云游",
+        "status": "1",
+        "userId": 1,
+        "roleIds": "7, 8",
+        "userName": "admin1",
+        "roles": "管理员",
+        "realName": "超级管理员",
+        "password": "21232f297"
+      }
+    ]
+  }
+}

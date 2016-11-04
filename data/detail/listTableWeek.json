@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "totalList":
+    [
+      {"rowNum": 1, "spId": "10012", "statDate": "第1周","rlSaleNum": 32, "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 2, "spId": "10013", "statDate": "第2周","rlSaleNum": 33, "spForecastSaleNum": 36, "spForecastSaleRange": "34~36"},
+      {"rowNum": 3, "spId": "10014", "statDate": "第3周","rlSaleNum": 34, "spForecastSaleNum": 37, "spForecastSaleRange": "34~36"},
+      {"rowNum": 4, "spId": "10015", "statDate": "第4周","rlSaleNum": 35, "spForecastSaleNum": 38, "spForecastSaleRange": "34~36"},
+      {"rowNum": 5, "spId": "10016", "statDate": "第5周","rlSaleNum": 36, "spForecastSaleNum": 39, "spForecastSaleRange": "34~36"},
+      {"rowNum": 6, "spId": "10017", "statDate": "第6周","rlSaleNum": "", "spForecastSaleNum": 40, "spForecastSaleRange": "34~36"},
+      {"rowNum": 7, "spId": "10018", "statDate": "第7周","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 8, "spId": "10019", "statDate": "第8周","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 9, "spId": "100110", "statDate": "第9周","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 10, "spId": "100111", "statDate": "第10周","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 11, "spId": "100112", "statDate": "第11周","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"},
+      {"rowNum": 12, "spId": "100113", "statDate": "第12周","rlSaleNum": "", "spForecastSaleNum": 35, "spForecastSaleRange": "34~36"}
+    ],
+    "currentPage": 1,
+    "totalPageNum": 12
+  }
+}

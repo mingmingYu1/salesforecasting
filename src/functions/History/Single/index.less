@@ -1,0 +1,47 @@
+.function-single {
+  .firstSelect {
+    margin-top: 20px;
+    > div {
+      &:nth-child(1) {
+        padding-right: 40px;
+        .bfd-select2 {
+          width: 210px;
+        }
+        > div {
+          margin-top: 10px;
+          &:first-child {
+            padding-right: 40px;
+          }
+        }
+      }
+      &:nth-child(2) {
+        margin-top: 10px;
+        padding-right: 40px;
+        .bfd-dropdown {
+          width: 100px;
+        }
+        .bfd-select2 {
+          width: 80px;
+          .dropdown-menu {
+            min-width: 80px;
+          }
+        }
+        > div {
+          &:first-child {
+            padding-right: 10px;
+          }
+        }
+      }
+      &:nth-child(3) {
+        margin-top: 10px;
+      }
+    }
+  }
+  .tableContainer {
+    margin-top: 20px;
+    padding-bottom: 30px;
+  }
+  .bfd-paging.row {
+    overflow: auto;
+  }
+}

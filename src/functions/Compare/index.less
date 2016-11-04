@@ -1,0 +1,47 @@
+@color: #00bcd4;           //   基础色
+@hoverColor: #80deea;      //    hover色
+
+.headerNav {
+  display: none;
+}
+.headerList {
+  display: none;
+}
+
+.function-compare {
+  padding: 82px 30px 40px;
+  .tabTitle {
+    padding-left: 20px;
+    border-bottom: 1px solid #e3ebf3;
+    .btn {
+      padding: 6px 14px;
+      font-size: 12px;
+    }
+    .bfd-btn + .bfd-btn {
+      margin-left: 2px;
+    }
+    .btn-primary {
+      color: #999;
+      background-color: #fff;
+      border-color: #fff;
+      &:hover {
+        background-color: @hoverColor;
+        border-color: @hoverColor;
+        color: #fff;
+      }
+    }
+    .btn-primary.active {
+      background-color: @color;
+      border-color: @color;
+      color: #fff;
+      &:hover {
+        background-color: @color;
+        border-color: @color;
+      }
+    }
+  }
+  .charts {
+    margin-top: 20px;
+  }
+}
+
